@@ -9,7 +9,8 @@ Download a zip file of the project from the code menu above. The downloaded fold
 ## How to use the project
 You can run this project in MATLAB. To insert a new multi-layer perceptron, you need to edit the Network.m file. Comments and examples in this file explain how to add layers, noded and connections. This is the **only** file that should be edited. 
 
-Once the correct network is implemented, open the Main.m file and run it. This will produce the output for the correct number of iterations based on how many training sets you added to thr Network.m file.
+Once the correct network is implemented, open the Main.m file and run it. This will produce the output for the correct number of iterations based on how many training sets you added to thr Network.m file. This is the **only** file that should be run.
+
 
 The output produced will show:
 + The output of each node.
@@ -35,4 +36,4 @@ Some files are consist of functions:
 + ActivationDerivatives.m
 + ActivationFunctions.m
 
-The network itself is detailed on the Network.m file. The of these files are brought together by the Main.m file.
+The network itself is detailed on the Network.m file. All of these files are brought together by the Main.m file.
