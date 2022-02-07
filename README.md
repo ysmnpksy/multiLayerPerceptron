@@ -1,7 +1,7 @@
 # Multi-Layer Perceptron
 
 ## Project description
-This project consists of a MATLAB impementation of the incremental backpropagation algorithm for a multi-layer perceptron. This implementation supports any number of hidden layers with biases, any number of nodes in each layer and multiple different activation functions.
+This project consists of a MATLAB implementation of the incremental backpropagation algorithm for a multi-layer perceptron. This implementation supports any number of hidden layers with biases, any number of nodes in each layer and multiple different activation functions.
 
 ## How to install the project
 Download a zip file of the project from the code menu above. The downloaded folder needs to be unzipped and all files need to be uploaded to MATLAB.
